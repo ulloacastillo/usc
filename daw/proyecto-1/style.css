@@ -1,0 +1,10 @@
+body {
+  font-family: "Quicksand", sans-serif;
+}
+
+.main-search {
+  border: 1px solid #000;
+  border-radius: 30%;
+  width: 500px;
+  height: 60px;
+}
